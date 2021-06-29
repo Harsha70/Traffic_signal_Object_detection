@@ -7,7 +7,7 @@ Here we have to determine the boundary box where the traffic signal is and we ha
 Identifying boundary box is a Regression model and Classifying the traffic signal is a Classification Model.
 
 ### Sample output
-![Output of a Traffic Sign](https://github.com/Harsha70/Traffic_signal_Object_detection/blob/main/Speed_20.png?raw=true)
+![Output of a Traffic Sign](https://github.com/Harsha70/Traffic_signal_Object_detection/blob/main/Speed_30.png?raw=true)
 
 
 ## Metrics
