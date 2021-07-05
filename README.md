@@ -9,6 +9,7 @@ Identifying boundary box is a Regression model and Classifying the traffic signa
 ### Sample output
 ![Output of a Traffic Sign](https://github.com/Harsha70/Traffic_signal_Object_detection/blob/main/Speed_30.png?raw=true)
 
+Trained with an image and bounding boxes of that image and the output is to predict the classification of the image and prediction of the bounding box.
 
 ## Metrics
 F1 score (for Classification)
